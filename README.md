@@ -2,6 +2,10 @@
 
 Corporate branding & promotional website for Reshow Investments (Pvt) Ltd.
 
+🌐 **Live Site**: [https://tebhogo.github.io/RESHOW-INVSTMSTS/](https://tebhogo.github.io/RESHOW-INVSTMSTS/)
+
+📚 **Deployment Guide**: See [GITHUB_PAGES_DEPLOY.md](./GITHUB_PAGES_DEPLOY.md) or [DEPLOY.md](./DEPLOY.md)
+
 ## Tech Stack
 
 - **Frontend**: React, Tailwind CSS, React Router
