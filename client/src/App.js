@@ -63,9 +63,13 @@ function AppContent() {
 }
 
 function App() {
+  // Get basename from homepage in package.json or use default
+  const basename = process.env.PUBLIC_URL || '';
+  
   return (
     <AuthProvider>
       <Router
+        basename={basename}
         future={{
           v7_startTransition: true,
           v7_relativeSplatPath: true,
