@@ -24,16 +24,35 @@ jobs:
         with:
           node-version: '18'
       
+      - name: Verify client directory
+        run: |
+          ls -la client/
+          echo "Checking for package.json..."
+          test -f client/package.json && echo "✓ package.json exists" || echo "✗ package.json missing"
+      
       - name: Install dependencies
         working-directory: ./client
-        run: npm install
+        run: |
+          echo "Installing dependencies..."
+          npm install --legacy-peer-deps
+          echo "Dependencies installed successfully"
       
       - name: Build React app
         working-directory: ./client
         env:
           REACT_APP_API_URL: ${{ secrets.REACT_APP_API_URL || 'http://localhost:5000/api' }}
           PUBLIC_URL: /RESHOW-INVSTMSTS
-        run: npm run build
+        run: |
+          echo "Building React app..."
+          npm run build
+          echo "Build completed"
+          ls -la build/ || echo "Build directory not found"
+      
+      - name: Verify build output
+        run: |
+          echo "Checking build directory..."
+          test -d client/build && echo "✓ Build directory exists" || echo "✗ Build directory missing"
+          ls -la client/build/ || echo "Cannot list build directory"
       
       - name: Setup Pages
         uses: actions/configure-pages@v4
