@@ -34,17 +34,15 @@ jobs:
           cache-dependency-path: client/package-lock.json
       
       - name: Install dependencies
-        run: |
-          cd client
-          npm ci
+        working-directory: ./client
+        run: npm install
       
       - name: Build React app
+        working-directory: ./client
         env:
           REACT_APP_API_URL: ${{ secrets.REACT_APP_API_URL || 'http://localhost:5000/api' }}
           PUBLIC_URL: /RESHOW-INVSTMSTS
-        run: |
-          cd client
-          npm run build
+        run: npm run build
       
       - name: Setup Pages
         uses: actions/configure-pages@v4
