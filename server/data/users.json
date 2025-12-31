@@ -1,0 +1,35 @@
+[
+  {
+    "id": "superadmin001",
+    "fullName": "Super Admin",
+    "email": "admin@reshow.co.zw",
+    "password": "$2a$10$vyh89e9vu3r6NTp0GgNzM.GiWcoCr43tVf5qIzJ62O/rqs4Z0mGTu",
+    "role": "superadmin",
+    "isActive": true,
+    "mustChangePassword": false,
+    "createdAt": "2025-12-21T14:03:59.500Z",
+    "lastLogin": "2025-12-31T13:22:28.722Z"
+  },
+  {
+    "id": "user_1766415823966_krrtg0uhl",
+    "fullName": "Liyandah hela",
+    "email": "liyandahhela@gmail.com",
+    "password": "$2a$10$Bbt9WU//aeVdRLZXvPIBcO9nyoKmK/Rr1SvaaR2XXbB8FBEydMkcm",
+    "role": "admin",
+    "isActive": true,
+    "mustChangePassword": true,
+    "createdAt": "2025-12-22T15:03:43.966Z",
+    "lastLogin": null
+  },
+  {
+    "id": "user_1767185092536_2zcavs9y7",
+    "fullName": "Tebhogo Hela",
+    "email": "tebhogoh@gmail.com",
+    "password": "$2a$10$uEvOupRYXveEFTF7tUotCOCmqY/1zuWUkDKt.R3SRcPwFLc5dEy9C",
+    "role": "admin",
+    "isActive": true,
+    "mustChangePassword": false,
+    "createdAt": "2025-12-31T12:44:52.536Z",
+    "lastLogin": "2025-12-31T12:45:48.308Z"
+  }
+]

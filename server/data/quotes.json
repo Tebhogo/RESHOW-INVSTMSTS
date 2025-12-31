@@ -1,0 +1,41 @@
+[
+  {
+    "id": "quote_1767184501012_fd0k7zot2",
+    "name": "Compteckengineering",
+    "email": "liyandahhella12@gmail.com",
+    "phone": "0774914287",
+    "company": "Compteckengineering",
+    "products": [
+      {
+        "productId": "prod_1767175697578_v3sxl4lc8",
+        "productName": "Liyanda hela",
+        "quantity": 1
+      },
+      {
+        "productId": "prod_1767175668617_g4pub6jr5",
+        "productName": "kjhkhkhk",
+        "quantity": 1
+      }
+    ],
+    "message": "",
+    "status": "pending",
+    "createdAt": "2025-12-31T12:35:01.013Z"
+  },
+  {
+    "id": "quote_1767184990240_kgx5ttcok",
+    "name": "cyber Cothtech networks",
+    "email": "liyandahhella12@gmail.com",
+    "phone": "0719787883",
+    "company": "cyber Cothtech networks",
+    "products": [
+      {
+        "productId": "prod_1767175668617_g4pub6jr5",
+        "productName": "kjhkhkhk",
+        "quantity": 1
+      }
+    ],
+    "message": "",
+    "status": "pending",
+    "createdAt": "2025-12-31T12:43:10.240Z"
+  }
+]

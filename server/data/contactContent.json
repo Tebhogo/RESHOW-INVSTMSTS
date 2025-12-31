@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Contact Us",
+    "description": "Get in touch with us for all your branding needs"
+  },
+  "info": {
+    "address": "55 Herbert Chitepo Avenue Corner Rekai Tangwena Harare, Zimbabwe",
+    "phone": "+263 864 414 8775",
+    "mobile": "+263 713 780 083 / +263 772 780 083",
+    "email": "sales@reshow.co.zw",
+    "website": "www.reshow.co.zw"
+  },
+  "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3799.123456789!2d31.033333!3d-17.829167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTfCsDQ5JzQ1LjAiUyAzMcKwMDInMDAuMCJF!5e0!3m2!1sen!2szw!4v1234567890123!5m2!1sen!2szw",
+  "createdAt": "2025-12-21T00:00:00.000Z",
+  "updatedAt": "2025-12-21T00:00:00.000Z",
+  "createdBy": "system"
+}
+

@@ -1,0 +1,200 @@
+{
+  "hero": {
+    "title": "Reshow Investments (Pvt) Ltd",
+    "subtitle": "Name it we brand it.",
+    "description": "Trusted Zimbabwean company specialising in corporate branding, promotional gifts, corporate apparel, and branding solutions.",
+    "image": "/uploads/content/1767170435290-564950695.png",
+    "buttonText": "Request Quote",
+    "updatedAt": "2025-12-22T20:08:44.545Z",
+    "updatedBy": "superadmin001"
+  },
+  "whyChoose": {
+    "title": "Why Choose Reshow",
+    "image": "/uploads/content/1767170479204-252579768.png",
+    "benefits": [
+      "Over a decade of industry experience",
+      "International quality through BARRON partnership",
+      "Customised branding solutions",
+      "Reliable turnaround times",
+      "Professional and customer-focused service"
+    ],
+    "updatedAt": "2025-12-22T20:17:28.865Z",
+    "updatedBy": "superadmin001"
+  },
+  "productCategories": {
+    "title": "Explore Our Product Categories",
+    "subtitle": "Products",
+    "description": "Discover our comprehensive range of corporate branding solutions, promotional products, and professional apparel tailored to your needs.",
+    "buttonText": "View Products",
+    "categories": [
+      {
+        "id": 1,
+        "title": "Corporate Apparel",
+        "description": "Professional workwear and corporate clothing solutions",
+        "image": "/uploads/content/1767170498488-330427379.png"
+      },
+      {
+        "id": 2,
+        "title": "Promotional Gifts",
+        "description": "Custom branded gifts and promotional items",
+        "image": "/uploads/content/1767170505134-595419353.png"
+      },
+      {
+        "id": 3,
+        "title": "Top Sellers",
+        "description": "Our most popular branding solutions",
+        "image": "/uploads/content/1767170517844-275633757.png"
+      },
+      {
+        "id": 4,
+        "title": "PPE Wear",
+        "description": "Personal protective equipment and safety gear",
+        "image": "/uploads/content/1767170528474-1000627.png"
+      },
+      {
+        "id": 5,
+        "title": "Headwear",
+        "description": "Branded caps, hats, and headwear solutions",
+        "image": "/uploads/content/1766641097933-302068347.png"
+      }
+    ]
+  },
+  "companyLogos": {
+    "title": "Trusted by Companies We've Worked With",
+    "logos": [
+      {
+        "id": 1,
+        "name": "Econet ",
+        "image": "/uploads/content/1766755426981-102775302.png"
+      },
+      {
+        "id": 2,
+        "name": "cyber cothe tch",
+        "image": "/uploads/content/1766755432306-619405111.png"
+      },
+      {
+        "id": 3,
+        "name": "OK ZIMBWE",
+        "image": "/uploads/content/1767170708807-517399882.png"
+      },
+      {
+        "id": 4,
+        "name": "Company 4",
+        "image": "/uploads/content/1767170713147-382663445.png"
+      },
+      {
+        "id": 5,
+        "name": "Company 5",
+        "image": "/uploads/content/1767170718047-782781145.png"
+      }
+    ],
+    "updatedAt": "2025-12-26T13:23:58.970Z",
+    "updatedBy": "superadmin001"
+  },
+  "productShowcase": {
+    "title": "Our Branding Solutions",
+    "description": "A snapshot of our corporate branding, apparel, promotional gifts, and professional workwear solutions.",
+    "products": [
+      {
+        "id": 1,
+        "title": "Workwear & PPE",
+        "image": "/uploads/content/1767170565399-793615765.png"
+      },
+      {
+        "id": 2,
+        "title": "Corporate Apparel",
+        "image": "/uploads/content/1767170569780-100617984.png"
+      },
+      {
+        "id": 3,
+        "title": "Branded Mugs",
+        "image": "/uploads/content/1767170574080-101781343.png"
+      },
+      {
+        "id": 4,
+        "title": "Promotional Bottles",
+        "image": "/uploads/content/1767170578661-481586036.png"
+      },
+      {
+        "id": 5,
+        "title": "Gift Packaging",
+        "image": "/uploads/content/1767170584952-46832611.png"
+      },
+      {
+        "id": 6,
+        "title": "Corporate Headwear",
+        "image": "/uploads/content/1767170590680-277234103.png"
+      }
+    ],
+    "updatedAt": "2025-12-26T13:01:08.115Z",
+    "updatedBy": "superadmin001"
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "",
+    "image": "/uploads/content/1767170801700-335185501.png"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "description": "View our portfolio of branding solutions and products.",
+    "images": [
+      {
+        "id": 1,
+        "name": "Gallery Image 1",
+        "image": "/uploads/content/1767170769011-275806778.png",
+        "alt": "Gallery Image 1"
+      },
+      {
+        "id": 2,
+        "name": "Gallery Image 2",
+        "image": "/uploads/content/1767170775800-470500390.png",
+        "alt": "Gallery Image 2"
+      },
+      {
+        "id": 3,
+        "name": "Gallery Image 3",
+        "image": "/uploads/content/1767170779990-527539697.png",
+        "alt": "Gallery Image 3"
+      },
+      {
+        "id": 1767111007171,
+        "name": "sbffnndf",
+        "alt": "asvasv",
+        "image": "/uploads/content/1767170784323-423876593.png"
+      },
+      {
+        "id": 1767111010034,
+        "name": "dfgng",
+        "alt": "",
+        "image": "/uploads/content/1767170788927-997509012.png"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Get in touch with us for your branding needs.",
+    "address": "55 Cnr Herbert Chitepo & Rekai Tangwena, Belvedere, Harare, Zimbabwe",
+    "phone": "+263 779 363 766",
+    "phone2": "+263 772 780 083",
+    "email": "sales@reshow.co.zw"
+  },
+  "navbar": {
+    "logoImage": "/uploads/content/1767187052743-400741508.png",
+    "logoDisplay": "both",
+    "showLogo": true
+  },
+  "footer": {
+    "companyName": "Reshow Investments",
+    "tagline": "Name it we brand it.",
+    "address": "55 Cnr Herbert Chitepo & Rekai Tangwena, Belvedere, Harare, Zimbabwe",
+    "phone1": "+263 779 363 766",
+    "phone2": "+263 772 780 083",
+    "email": "sales@reshow.co.zw",
+    "facebook": "https://facebook.com",
+    "instagram": "https://instagram.com",
+    "twitter": "https://twitter.com",
+    "tiktok": "https://tiktok.com"
+  },
+  "updatedAt": "2025-12-31T13:18:53.256Z",
+  "updatedBy": "superadmin001"
+}

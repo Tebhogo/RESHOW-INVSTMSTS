@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "title": "About Us",
+    "description": "Reshow Investments (Pvt) Ltd is a well-established corporate branding and promotional gifting company serving corporates, NGOs, public institutions, and private organisations across Zimbabwes",
+    "description2": "",
+    "image": "/uploads/content/1767187130085-642561553.png"
+  },
+  "stats": {
+    "years": "10+",
+    "yearsLabel": "Years of Experience",
+    "clients": "500+",
+    "clientsLabel": "Happy Clients",
+    "projects": "1000+",
+    "projectsLabel": "Projects Completed"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "content": "To deliver high-quality, innovative, and cost-effective corporate branding and promotional solutions that exceed client expectations through professionalism and reliability."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "content": "To be Zimbabwe's leading provider of bespoke corporate branding and promotional products, driven by innovation, excellence, and customer-focused service."
+  },
+  "values": [
+    {
+      "title": "Efficiency",
+      "description": "Timely turnaround without compromising quality"
+    },
+    {
+      "title": "Integrity",
+      "description": "Transparent operations and honest engagement"
+    },
+    {
+      "title": "Flexibility",
+      "description": "Tailored solutions that adapt to client needs"
+    },
+    {
+      "title": "Responsiveness",
+      "description": "Proactive support and real-time communication"
+    },
+    {
+      "title": "Customer Satisfaction",
+      "description": "Commitment to exceeding expectations"
+    }
+  ],
+  "partnership": {
+    "title": "Strategic Partnerships",
+    "partnerName": "BARRON South Africa",
+    "description1": "Reshow Investments is proud to be the exclusive Zimbabwean distributor of BARRON South Africa, a leader in promotional apparel and corporate gifting.",
+    "description2": "This partnership gives our clients access to a world-class catalogue of premium workwear, uniforms, executive gifts, and branding materials, backed by international quality standards.",
+    "image": "/uploads/content/1767170756382-420843541.png"
+  },
+  "experience": {
+    "title": "Our Experience",
+    "description": "With over 10 years of experience, we serve clients across:",
+    "clients": [
+      "Financial institutions",
+      "Government and municipalities",
+      "Manufacturing and industrial sectors",
+      "NGOs and development agencies",
+      "Hospitality and educational institutions"
+    ],
+    "images": []
+  },
+  "updatedAt": "2025-12-31T13:18:57.013Z"
+}

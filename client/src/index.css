@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Poppins', sans-serif;
+    color: #1A1A1A;
+    line-height: 1.6;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: #1A1A1A;
+  }
+}
+
+/* Product Showcase Ribbon Animation */
+@keyframes scroll-ribbon-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-100% / 5));
+  }
+}
+
+@keyframes scroll-ribbon-right {
+  0% {
+    transform: translateX(calc(-100% / 5));
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.animate-scroll-ribbon-left {
+  animation: scroll-ribbon-left 40s linear infinite;
+  display: flex;
+  width: fit-content;
+}
+
+.animate-scroll-ribbon-right {
+  animation: scroll-ribbon-right 40s linear infinite;
+  display: flex;
+  width: fit-content;
+}
+
+.animate-scroll-ribbon-left:hover,
+.animate-scroll-ribbon-right:hover {
+  animation-play-state: paused;
+}
+
+@media (max-width: 768px) {
+  .animate-scroll-ribbon-left,
+  .animate-scroll-ribbon-right {
+    animation-duration: 25s;
+  }
+}
+
+/* Hide scrollbar for ProductCategoriesSection */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

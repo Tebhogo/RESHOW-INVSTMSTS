@@ -1,0 +1,26 @@
+{
+  "name": "reshow-server",
+  "version": "1.0.0",
+  "description": "Reshow Investments Backend Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "init-admin": "node scripts/initAdmin.js"
+  },
+  "keywords": ["reshow", "api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

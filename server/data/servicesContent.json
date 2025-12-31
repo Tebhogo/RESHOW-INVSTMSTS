@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "title": "Our Services",
+    "description": "Comprehensive branding and promotional solutions for your business"
+  },
+  "services": [
+    {
+      "id": "service_1767173382715_3ovsb71t4",
+      "title": "kjhklhdssd",
+      "description": "asaasa",
+      "image": "/uploads/content/1767173377528-163632376.png",
+      "category": "Apparel",
+      "createdAt": "2025-12-31T09:29:42.715Z",
+      "updatedAt": "2025-12-31T11:45:31.548Z",
+      "rating": 3
+    },
+    {
+      "id": "service_1767173401145_fylfhe04v",
+      "title": "llknkjnljkn",
+      "description": "johouhuo",
+      "image": "/uploads/content/1767173399877-882595362.png",
+      "category": "Apparel",
+      "createdAt": "2025-12-31T09:30:01.145Z",
+      "updatedAt": "2025-12-31T11:45:04.674Z",
+      "rating": 1
+    },
+    {
+      "id": "service_1767173424662_8qfxj79yb",
+      "title": "kdslssl",
+      "description": "hdsdfhDgfnm",
+      "image": "/uploads/content/1767173423632-19763301.png",
+      "category": "Headwear",
+      "createdAt": "2025-12-31T09:30:24.662Z",
+      "updatedAt": "2025-12-31T09:30:24.662Z"
+    },
+    {
+      "id": "service_1767173445090_95cxono76",
+      "title": "gjfgfgf",
+      "description": "gfmgmfmg",
+      "image": "/uploads/content/1767173443330-403302461.png",
+      "category": "Promotional Gifts",
+      "createdAt": "2025-12-31T09:30:45.090Z",
+      "updatedAt": "2025-12-31T09:30:45.090Z"
+    }
+  ],
+  "createdAt": "2025-12-21T00:00:00.000Z",
+  "updatedAt": "2025-12-31T11:45:31.561Z",
+  "createdBy": "system"
+}

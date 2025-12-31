@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cat_1",
+    "name": "Apparel",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "cat_2",
+    "name": "Headwear",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "cat_3",
+    "name": "Promotional Gifts",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "cat_4",
+    "name": "PPE Wear",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]
+
